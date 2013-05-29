@@ -33,6 +33,7 @@ class Configuration implements ConfigurationInterface
             'foursquare',
             'github',
             'google',
+            'harvest',
             'sensio_connect',
             'stack_exchange',
             'vkontakte',
